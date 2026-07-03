@@ -55,4 +55,3 @@ Based on the empirical insights derived from the historical data, the following 
 * **Libraries Used:** `pandas` (Data alignment & matrix aggregation), `numpy` (Mathematical structures), `matplotlib` & `seaborn` (Statistical data plotting).
 * **Timeframe Alignment:** Reconciled high-frequency millisecond execution tracking timestamps (`Timestamp IST`) to the global daily sentiment indexes using custom date-boundary masking.
 
-![Distribution of Closed PnL Across Market Sentiment Phases](image_e9b64f.png)
